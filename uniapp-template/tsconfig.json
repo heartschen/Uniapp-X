@@ -1,0 +1,24 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.json",
+  "compilerOptions": {
+    "verbatimModuleSyntax": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "types": [
+      "@dcloudio/types"
+    ]
+  },
+  "include": [
+    "src",
+    "types"
+  ]
+}

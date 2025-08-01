@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "path": "pages/HomePage/HomePage.vue",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/OrderPage/OrderPage.vue",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/UserPage/UserPage.vue",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
