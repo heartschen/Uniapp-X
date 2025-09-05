@@ -9,7 +9,7 @@
     {
       "path": "pages/OrderPage/OrderPage.vue",
       "style": {
-        "navigationBarTitleText": ""
+        "navigationBarTitleText": "订单"
       }
     },
     {
